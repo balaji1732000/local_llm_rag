@@ -1,0 +1,7 @@
+boto3
+fpdf
+langchain
+llama-cpp-python
+pypdf
+gpt4all
+faiss-cpu
